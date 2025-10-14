@@ -1,0 +1,387 @@
+sw_volume: 96
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 161
+time: 137.691
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:the_witcher_3_wild_hunt_-_official_soundtrack_flac/01 The Trail.flac
+1:the_witcher_3_wild_hunt_-_official_soundtrack_flac/02 Geralt of Rivia.flac
+2:the_witcher_3_wild_hunt_-_official_soundtrack_flac/03 Eredin, King of the Hunt.flac
+3:the_witcher_3_wild_hunt_-_official_soundtrack_flac/04 Wake Up, Ciri.flac
+4:the_witcher_3_wild_hunt_-_official_soundtrack_flac/05 Aen Seidhe.flac
+5:the_witcher_3_wild_hunt_-_official_soundtrack_flac/06 Commanding the Fury.flac
+6:the_witcher_3_wild_hunt_-_official_soundtrack_flac/07 Emhyr var Emreis.flac
+7:the_witcher_3_wild_hunt_-_official_soundtrack_flac/08 Spikeroog.flac
+8:the_witcher_3_wild_hunt_-_official_soundtrack_flac/09 King Bran's Final Voyage.flac
+9:the_witcher_3_wild_hunt_-_official_soundtrack_flac/10 Silver for Monsters....flac
+10:the_witcher_3_wild_hunt_-_official_soundtrack_flac/11 Whispers of Oxenfurt.flac
+11:the_witcher_3_wild_hunt_-_official_soundtrack_flac/12 The Nightingale.flac
+12:the_witcher_3_wild_hunt_-_official_soundtrack_flac/13 City of Intrigues.flac
+13:the_witcher_3_wild_hunt_-_official_soundtrack_flac/14 The Hunter's Path.flac
+14:the_witcher_3_wild_hunt_-_official_soundtrack_flac/15 Widow-maker.flac
+15:the_witcher_3_wild_hunt_-_official_soundtrack_flac/16 Kaer Morhen.flac
+16:the_witcher_3_wild_hunt_-_official_soundtrack_flac/17 Eyes of the Wolf.flac
+17:the_witcher_3_wild_hunt_-_official_soundtrack_flac/18 Witch Hunters.flac
+18:the_witcher_3_wild_hunt_-_official_soundtrack_flac/19 ...Steel for Humans.flac
+19:the_witcher_3_wild_hunt_-_official_soundtrack_flac/20 Fate Calls.flac
+20:the_witcher_3_wild_hunt_-_official_soundtrack_flac/21 The Vagabond.flac
+21:the_witcher_3_wild_hunt_-_official_soundtrack_flac/22 Cloak and Dagger.flac
+22:the_witcher_3_wild_hunt_-_official_soundtrack_flac/23 Forged in Fire.flac
+23:the_witcher_3_wild_hunt_-_official_soundtrack_flac/24 Yes, I Do....flac
+24:the_witcher_3_wild_hunt_-_official_soundtrack_flac/25 Welcome, Imlerith.flac
+25:the_witcher_3_wild_hunt_-_official_soundtrack_flac/26 Drink Up, There’s More!.flac
+26:the_witcher_3_wild_hunt_-_official_soundtrack_flac/27 After the Storm.flac
+27:the_witcher_3_wild_hunt_-_official_soundtrack_flac/28 Blood on the Cobblestones.flac
+28:the_witcher_3_wild_hunt_-_official_soundtrack_flac/29 Farewell, Old Friend.flac
+29:the_witcher_3_wild_hunt_-_official_soundtrack_flac/30 The Song of the Sword–Dancer.flac
+30:the_witcher_3_wild_hunt_-_official_soundtrack_flac/31 The Hunt is Coming.flac
+31:the_witcher_3_wild_hunt_-_official_soundtrack_flac/32 The Fields of Ard Skellig.flac
+32:the_witcher_3_wild_hunt_-_official_soundtrack_flac/33 Ladies of the Woods.flac
+33:the_witcher_3_wild_hunt_-_official_soundtrack_flac/34 Merchants of Novigrad.flac
+34:the_witcher_3_wild_hunt_-_official_soundtrack_flac/35 Hunt or Be Hunted.flac
+35:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/OST The Witcher 3 - Silver for Monsters.flac
+36:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3 - Bard Song - Tavern Song - The Wolven Storm (Full Lyrics).flac
+37:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3 - Tavern Music (Extended).flac
+38:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3 OST - The Bloody Baron's Family.flac
+39:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3 Skellige Isle Ambient Music 1.flac
+40:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3 Skellige Isle Ambient Music 2.flac
+41:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3 Soundtrack_ The Sunstone Aen Seidhe.flac
+42:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3 Wild Hunt - Killing Monsters Soundtrack.flac
+43:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - 'The Last Wish' Djinn Combat Extended - Unofficial Soundtrack.flac
+44:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - 'Whispers of Oxenfurt' Instrumental Extended - Unofficial Soundtrack.flac
+45:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - 'Words on Wind' Skellige Nature Theme 2 Extended - Unofficial Soundtrack.flac
+46:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Crow's Perch Theme - Unofficial Soundtrack.flac
+47:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Freya's Garden Theme Extended - Unofficial Soundtrack.flac
+48:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Fyke Isle Theme Extended - Unofficial Soundtrack.flac
+49:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Geralt Investigation Ambience Extended - - Unofficial Soundtrack.flac
+50:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Lullaby of Woe (special single).flac
+51:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Monster's Lair Ambience Extended - Unofficial Soundtrack.flac
+52:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Novigrad City Theme 1 Extended - Unofficial Soundtrack.flac
+53:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Novigrad City Theme 2 Extended - Unofficial Soundtrack.flac
+54:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Roche's Hideout Theme Extended - Unofficial soundtrack.flac
+55:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Sad Ambience_Slums Extended - Unofficial Soundtrack.flac
+56:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Sewers Ambience Theme Extended - Unofficial Soundtrack.flac
+57:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Sewers_Bathhouse Combat Theme Extended - Unofficial Soundtrack.flac
+58:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Skellige Nature Theme 1 Extended - Unofficial Soundtrack.flac
+59:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Triss_ 'Now or Never' Theme Extended - Unofficial Soundtrack.flac
+60:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Velen Nature Theme Extended - Unofficial Soundtrack.flac
+61:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Whoreson Theme Extended - Unofficial Soundtrack.flac
+62:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Yennefer 'The Last Wish' Romance Theme Extended - Unofficial Soundtrack.flac
+63:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt - Yennefer 'The Last Wish' Theme Extended - Unofficial Soundtrack.flac
+64:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt (Unofficial Tracks)/The Witcher 3_ Wild Hunt Soundtrack - Back on the Path (Gwent _ Tavern).flac
+65:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3 _ Wild Hunt OST - Unreleased Bloody Baron Theme (Extended).flac
+66:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - A Magic Cave [Extended].flac
+67:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - A Magic Cave.flac
+68:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Ard Skellig Village.flac
+69:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Forefather's Eve.flac
+70:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - King of Beggars' Hideout.flac
+71:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Midnight at Mubrydale.flac
+72:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Novigrad Dreaming.flac
+73:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Outskirts of Novigrad (Midnight).flac
+74:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Outskirts of Novigrad.flac
+75:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Oxenfurt.flac
+76:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Ploughing.flac
+77:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Skellige Battle 1.flac
+78:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Skellige Battle 2.flac
+79:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Skellige Battle 3.flac
+80:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Tedd Deireadh_ the Final Age.flac
+81:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - The Fields of Ard Skellig (Midnight).flac
+82:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - The Orphans of Crookback Bog.flac
+83:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - The Slums of Novigrad.flac
+84:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Trashing Avallac'h's Lab.flac
+85:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Tretogor Gate (Midnight).flac
+86:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Versus Caranthir.flac
+87:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Versus Djinn.flac
+88:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Versus Eredin.flac
+89:The Witcher 3 Wild Hunt OST (Unreleased + Unofficial)/Witcher 3 Wild Hunt OST (Unreleased Tracks)/The Witcher 3_ Wild Hunt OST (Unreleased Tracks) - Versus Shrieker.flac
+90:cyberpunk_2077_ost_flac.zip/flac/cd1/01 - Marcin Przybylowicz - V.flac
+91:cyberpunk_2077_ost_flac.zip/flac/cd1/02 - Paul Leonard-Morgan - Extraction Action.flac
+92:cyberpunk_2077_ost_flac.zip/flac/cd1/03 - P.T. Adamczyk - The Rebel Path.flac
+93:cyberpunk_2077_ost_flac.zip/flac/cd1/04 - Paul Leonard-Morgan - The Streets Are Long-Ass Gutters.flac
+94:cyberpunk_2077_ost_flac.zip/flac/cd1/05 - P.T. Adamczyk - Outsider No More.flac
+95:cyberpunk_2077_ost_flac.zip/flac/cd1/06 - Marcin Przybylowicz - Cloudy Day.flac
+96:cyberpunk_2077_ost_flac.zip/flac/cd1/07 - Marcin Przybylowicz - Wushu Dolls.flac
+97:cyberpunk_2077_ost_flac.zip/flac/cd1/08 - P.T. Adamczyk - Scavenger Hunt.flac
+98:cyberpunk_2077_ost_flac.zip/flac/cd1/09 - P.T. Adamczyk - Мусорщики.flac
+99:cyberpunk_2077_ost_flac.zip/flac/cd1/10 - Marcin Przybylowicz - Close Probing.flac
+100:cyberpunk_2077_ost_flac.zip/flac/cd1/11 - Paul Leonard-Morgan - There_s Gonna Be A Parade!.flac
+101:cyberpunk_2077_ost_flac.zip/flac/cd1/12 - Paul Leonard-Morgan - Trouble Finds Trouble.flac
+102:cyberpunk_2077_ost_flac.zip/flac/cd1/13 - P.T. Adamczyk - You Shall Never Have To Forgive Me Again.flac
+103:cyberpunk_2077_ost_flac.zip/flac/cd1/14 - P.T. Adamczyk - Code Red Initiated.flac
+104:cyberpunk_2077_ost_flac.zip/flac/cd1/15 - P.T. Adamczyk - The Heist.flac
+105:cyberpunk_2077_ost_flac.zip/flac/cd1/16 - Marcin Przybylowicz - Streetfighters.flac
+106:cyberpunk_2077_ost_flac.zip/flac/cd1/17 - Marcin Przybylowicz - Patri(di)ots.flac
+107:cyberpunk_2077_ost_flac.zip/flac/cd1/18 - Paul Leonard-Morgan - Mining Minds.flac
+108:cyberpunk_2077_ost_flac.zip/flac/cd1/19 - P.T. Adamczyk - Rite Of Passage.flac
+109:cyberpunk_2077_ost_flac.zip/flac/cd2/01 - P.T. Adamczyk - The Voice In My Head.flac
+110:cyberpunk_2077_ost_flac.zip/flac/cd2/02 - Marcin Przybylowicz - Modern Anthill.flac
+111:cyberpunk_2077_ost_flac.zip/flac/cd2/03 - Paul Leonard-Morgan - The Sacred And The Profane.flac
+112:cyberpunk_2077_ost_flac.zip/flac/cd2/04 - P.T. Adamczyk - Kang Tao Down.flac
+113:cyberpunk_2077_ost_flac.zip/flac/cd2/05 - Marcin Przybylowicz - Cyberwildlife Park.flac
+114:cyberpunk_2077_ost_flac.zip/flac/cd2/06 - Marcin Przybylowicz - Consumer Cathedral.flac
+115:cyberpunk_2077_ost_flac.zip/flac/cd2/07 - P.T. Adamczyk - Juiced Up.flac
+116:cyberpunk_2077_ost_flac.zip/flac/cd2/08 - Paul Leonard-Morgan - Bells Of Laguna Bend.flac
+117:cyberpunk_2077_ost_flac.zip/flac/cd2/09 - Marcin Przybylowicz - Urban Downunder.flac
+118:cyberpunk_2077_ost_flac.zip/flac/cd2/10 - P.T. Adamczyk - Atlantis.flac
+119:cyberpunk_2077_ost_flac.zip/flac/cd2/11 - Marcin Przybylowicz - Cyberninja.flac
+120:cyberpunk_2077_ost_flac.zip/flac/cd2/12 - Paul Leonard-Morgan - The Suits Are Scared.flac
+121:cyberpunk_2077_ost_flac.zip/flac/cd2/13 - Paul Leonard-Morgan - Tower Lockdown.flac
+122:cyberpunk_2077_ost_flac.zip/flac/cd2/14 - P.T. Adamczyk - To Hell and Back.flac
+123:cyberpunk_2077_ost_flac.zip/flac/cd2/15 - Paul Leonard-Morgan - Adam Smasher.flac
+124:cyberpunk_2077_ost_flac.zip/flac/cd2/16 - Paul Leonard-Morgan - Hanako _ Yorinobu.flac
+125:cyberpunk_2077_ost_flac.zip/flac/cd2/17 - Marcin Przybylowicz - Been Good To Know Ya.flac
+126:cyberpunk_2077_ost_flac.zip/flac/cd2/18 - P.T. Adamczyk - Never Fade Away (SAMURAI Cover) - feat. Olga Jankowska.flac
+127:Cybepunk 2077 flac tracks/cd1/01 - Marcin Przybylowicz - V.flac
+128:Cybepunk 2077 flac tracks/cd1/02 - Paul Leonard-Morgan - Extraction Action.flac
+129:Cybepunk 2077 flac tracks/cd1/03 - P.T. Adamczyk - The Rebel Path.flac
+130:Cybepunk 2077 flac tracks/cd1/04 - Paul Leonard-Morgan - The Streets Are Long-Ass Gutters.flac
+131:Cybepunk 2077 flac tracks/cd1/05 - P.T. Adamczyk - Outsider No More.flac
+132:Cybepunk 2077 flac tracks/cd1/06 - Marcin Przybylowicz - Cloudy Day.flac
+133:Cybepunk 2077 flac tracks/cd1/07 - Marcin Przybylowicz - Wushu Dolls.flac
+134:Cybepunk 2077 flac tracks/cd1/08 - P.T. Adamczyk - Scavenger Hunt.flac
+135:Cybepunk 2077 flac tracks/cd1/09 - P.T. Adamczyk - Мусорщики.flac
+136:Cybepunk 2077 flac tracks/cd1/10 - Marcin Przybylowicz - Close Probing.flac
+137:Cybepunk 2077 flac tracks/cd1/11 - Paul Leonard-Morgan - There_s Gonna Be A Parade!.flac
+138:Cybepunk 2077 flac tracks/cd1/12 - Paul Leonard-Morgan - Trouble Finds Trouble.flac
+139:Cybepunk 2077 flac tracks/cd1/13 - P.T. Adamczyk - You Shall Never Have To Forgive Me Again.flac
+140:Cybepunk 2077 flac tracks/cd1/14 - P.T. Adamczyk - Code Red Initiated.flac
+141:Cybepunk 2077 flac tracks/cd1/15 - P.T. Adamczyk - The Heist.flac
+142:Cybepunk 2077 flac tracks/cd1/16 - Marcin Przybylowicz - Streetfighters.flac
+143:Cybepunk 2077 flac tracks/cd1/17 - Marcin Przybylowicz - Patri(di)ots.flac
+144:Cybepunk 2077 flac tracks/cd1/18 - Paul Leonard-Morgan - Mining Minds.flac
+145:Cybepunk 2077 flac tracks/cd1/19 - P.T. Adamczyk - Rite Of Passage.flac
+146:Cybepunk 2077 flac tracks/cd2/01 - P.T. Adamczyk - The Voice In My Head.flac
+147:Cybepunk 2077 flac tracks/cd2/02 - Marcin Przybylowicz - Modern Anthill.flac
+148:Cybepunk 2077 flac tracks/cd2/03 - Paul Leonard-Morgan - The Sacred And The Profane.flac
+149:Cybepunk 2077 flac tracks/cd2/04 - P.T. Adamczyk - Kang Tao Down.flac
+150:Cybepunk 2077 flac tracks/cd2/05 - Marcin Przybylowicz - Cyberwildlife Park.flac
+151:Cybepunk 2077 flac tracks/cd2/06 - Marcin Przybylowicz - Consumer Cathedral.flac
+152:Cybepunk 2077 flac tracks/cd2/07 - P.T. Adamczyk - Juiced Up.flac
+153:Cybepunk 2077 flac tracks/cd2/08 - Paul Leonard-Morgan - Bells Of Laguna Bend.flac
+154:Cybepunk 2077 flac tracks/cd2/09 - Marcin Przybylowicz - Urban Downunder.flac
+155:Cybepunk 2077 flac tracks/cd2/10 - P.T. Adamczyk - Atlantis.flac
+156:Cybepunk 2077 flac tracks/cd2/11 - Marcin Przybylowicz - Cyberninja.flac
+157:Cybepunk 2077 flac tracks/cd2/12 - Paul Leonard-Morgan - The Suits Are Scared.flac
+158:Cybepunk 2077 flac tracks/cd2/13 - Paul Leonard-Morgan - Tower Lockdown.flac
+159:Cybepunk 2077 flac tracks/cd2/14 - P.T. Adamczyk - To Hell and Back.flac
+160:Cybepunk 2077 flac tracks/cd2/15 - Paul Leonard-Morgan - Adam Smasher.flac
+161:Cybepunk 2077 flac tracks/cd2/16 - Paul Leonard-Morgan - Hanako _ Yorinobu.flac
+162:Cybepunk 2077 flac tracks/cd2/17 - Marcin Przybylowicz - Been Good To Know Ya.flac
+163:Cybepunk 2077 flac tracks/cd2/18 - P.T. Adamczyk - Never Fade Away (SAMURAI Cover) - feat. Olga Jankowska.flac
+164:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 15 - Get Up! For Lumière!.mp3
+165:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 17 - Battling Breeze.mp3
+166:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 18 - Beneath the Blue Tree.mp3
+167:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 23 - Taking Down the Paintress.mp3
+168:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 25 - Until You're Gone.mp3
+169:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 30 - Serpenphare.mp3
+170:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 31 - Rain from the Ground.mp3
+171:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 37 - Gestral Summer Party.mp3
+172:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 38 - Megabot#33.mp3
+173:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 41 - Gestral Merchant.mp3
+174:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 45 - Gestral Arena.mp3
+175:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 46 - Golgra.mp3
+176:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 57 - Warding Blades.mp3
+177:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 60 - Une vie à t'aimer.mp3
+178:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 06 - Dualliste.mp3
+179:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 21 - Numbers the Hours.mp3
+180:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 31 - Of Virtuosity and Heart.mp3
+181:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 32 - Gustave's Legacy.mp3
+182:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 43 - Rouge d'Iris.mp3
+183:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 44 - Poème d'Amour.mp3
+184:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 51 - Idéal Mental.mp3
+185:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 52 - Portrait Imparfait.mp3
+186:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 63 - Entre les Marais et les Cimes.mp3
+187:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 64 - Orphelin.mp3
+188:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 67 - Paintress.mp3
+189:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 02 - We Lost.mp3
+190:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 14 - Our Painted Hatred.mp3
+191:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 17 - Une vie à Peindre.mp3
+192:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 21 - Our Drafts Collides.mp3
+193:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 24 - Une vie à rêver.mp3
+194:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 01 - Alicia.mp3
+195:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 02 - Gustave.mp3
+196:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 03 - Lumière.mp3
+197:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 04 - Lumière à l'Aube.mp3
+198:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 05 - Promenade dans Lumière.mp3
+199:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 06 - Le Grand Café de Lumière.mp3
+200:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 07 - Continuer à t'aimer (Lune).mp3
+201:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 08 - Rêveries dans Lumière.mp3
+202:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 09 - Nocturne pour Lumière (Violoncelle).mp3
+203:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 10 - The Departure.mp3
+204:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 11 - Cloud of Anxiety.mp3
+205:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 12 - Cello Motifs.mp3
+206:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 13 - Éveil.mp3
+207:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 14 - Burial of the Lights.mp3
+208:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 16 - Linen and Cotton.mp3
+209:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 19 - Tomorrow is Here.mp3
+210:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 20 - Nightfall.mp3
+211:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 21 - L'Aurore aux Doigts de Roses.mp3
+212:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 22 - Lune.mp3
+213:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 24 - In Lumière's Name.mp3
+214:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 26 - Forlorn.mp3
+215:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 27 - Submerged Lights.mp3
+216:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 28 - Electric Tides.mp3
+217:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 29 - Goblu.mp3
+218:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 32 - The Curator.mp3
+219:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 33 - Un 33 Décembre à Paris.mp3
+220:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 34 - Path on the Roots.mp3
+221:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 35 - Bonzaie Clairing.mp3
+222:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 35 - Lake.mp3
+223:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 39 - Entrance of the Village.mp3
+224:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 40 - Gestral Market.mp3
+225:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 42 - Alicia (Gestrals).mp3
+226:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 43 - Continuer à t'aimer (Gestrals).mp3
+227:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 44 - Golgra's Throne.mp3
+228:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 47 - Sciel.mp3
+229:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 48 - Esquie's Bath.mp3
+230:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 49 - François.mp3
+231:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 50 - Firecamp - Sciel.mp3
+232:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 51 - Firecamp - Lune.mp3
+233:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 52 - The Whale Next to the Cliff.mp3
+234:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 53 - Missing Hope.mp3
+235:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 54 - Lights of the Past.mp3
+236:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 55 - Sandfall.mp3
+237:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 56 - The Last Thing You'll See.mp3
+238:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 58 - Lampmaster.mp3
+239:Clair Obscur Expedition 33 – Original Soundtrack/Disc 1 - Clair Obscur Expedition 33 Original Soundtrack (Act I) - 59 - Loin d'Elle.mp3
+240:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 01 - Verso.mp3
+241:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 02 - Cemetery's Boat.mp3
+242:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 03 - Lueur Déclinante .mp3
+243:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 04 - Over the Fallen.mp3
+244:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 05 - Divided Swords.mp3
+245:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 07 - Red Birds are Tied to the Ground.mp3
+246:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 08 - Lost Voice.mp3
+247:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 09 - Maelle's First Snow.mp3
+248:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 10 - Follow the Steps of Monoco.mp3
+249:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 11 - Grandis Domain.mp3
+250:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 12 - Ice's Caves.mp3
+251:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 13 - When the Snow Cries.mp3
+252:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 14 - Tics Tacs.mp3
+253:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 15 - Grandis Refuge.mp3
+254:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 16 - Twirling Voices.mp3
+255:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 17 - Monoco.mp3
+256:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 18 - I'd Rather Play Pétanque!.mp3
+257:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 19 - My Grandma Hits Harder!.mp3
+258:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 20 - Is it a Gestral or a Volleyball.mp3
+259:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 22 - Honey and Clayworks.mp3
+260:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 23 - Nightfall.mp3
+261:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 24 - Noco's Root.mp3
+262:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 25 - Cave.mp3
+263:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 26 - Amber and Sap.mp3
+264:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 27 - Autumn's Brush.mp3
+265:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 28 - River Dream.mp3
+266:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 29 - Déchire la Toile.mp3
+267:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 30 - Waiting Canvas.mp3
+268:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 33 - Lumière s'éteint.mp3
+269:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 34 - Fragments Tell Stories.mp3
+270:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 35 - When the Dust Settles.mp3
+271:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 36 - Révérence.mp3
+272:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 37 - Eiffel.mp3
+273:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 38 - L'Amour d'un Père.mp3
+274:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 39 - Tout ce que je suis, pour toi.mp3
+275:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 40 - Robe de Jour.mp3
+276:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 41 - Robe de Nuit.mp3
+277:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 42 - Tisser la Beauté.mp3
+278:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 45 - Nocturne pour un Masque de Joie.mp3
+279:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 46 - Nocturne pour un Masque de Tristesse.mp3
+280:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 47 - Nocturne pour un Masque de Colère.mp3
+281:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 48 - Aria pour un Masque de Colère.mp3
+282:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 49 - Aria pour un Masque de Tristesse.mp3
+283:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 50 - Aria pour un Masque de Joie.mp3
+284:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 53 - Mains Subtiles.mp3
+285:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 54 - Peindre la Perfection.mp3
+286:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 55 - Contre le Coeur.mp3
+287:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 56 - Fleur de Paris.mp3
+288:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 57 - L'amour d'une Soeur.mp3
+289:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 58 - Clea.mp3
+290:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 59 - Stuck in Maelle's Head.mp3
+291:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 60 - Naissance des Cendres.mp3
+292:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 61 - Mémoires.mp3
+293:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 62 - Vers le Sommet.mp3
+294:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 65 - Près de Lui.mp3
+295:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 66 - Aline.mp3
+296:Clair Obscur Expedition 33 – Original Soundtrack/Disc 2 - Clair Obscur Expedition 33 Original Soundtrack (Act II) - 68 - L'Amour d'une Mère.mp3
+297:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 01 - Lettre à Maelle.mp3
+298:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 03 - Dolorosa.mp3
+299:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 04 - Verso (Music Box).mp3
+300:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 05 - Lullaby for my Sister.mp3
+301:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 06 - Gustave (Music Box).mp3
+302:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 07 - Lumière (Music Box).mp3
+303:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 08 - Sciel (Music Box).mp3
+304:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 09 - Lune (Music Box).mp3
+305:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 10 - Alicia (Music Box).mp3
+306:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 11 - Continuer à t'aimer (Piano).mp3
+307:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 12 - Nuit sur Lumière.mp3
+308:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 13 - Un Air de Famille.mp3
+309:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 15 - Children of Lumière.mp3
+310:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 16 - Renoir.mp3
+311:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 18 - Shared Canvas.mp3
+312:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 19 - Endless Light.mp3
+313:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 20 - It's Time to Stop Painting.mp3
+314:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 22 - Until Next Life.mp3
+315:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 23 - Clair-Obscur.mp3
+316:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 25 - Aux lendemains non Écrits .mp3
+317:Clair Obscur Expedition 33 – Original Soundtrack/Disc 3 - Clair Obscur Expedition 33 Original Soundtrack (Act III) - 26 - Maelle.mp3
+318:hollow_knight_silksong_ost_mp3/01 Enter Pharloom.mp3
+319:hollow_knight_silksong_ost_mp3/02 Moss Grotto.mp3
+320:hollow_knight_silksong_ost_mp3/03 Strive.mp3
+321:hollow_knight_silksong_ost_mp3/04 Bone Bottom.mp3
+322:hollow_knight_silksong_ost_mp3/05 The Marrow.mp3
+323:hollow_knight_silksong_ost_mp3/06 Bell Beast.mp3
+324:hollow_knight_silksong_ost_mp3/07 Repose.mp3
+325:hollow_knight_silksong_ost_mp3/08 Deep Docks.mp3
+326:hollow_knight_silksong_ost_mp3/09 Lace.mp3
+327:hollow_knight_silksong_ost_mp3/10 Far Fields.mp3
+328:hollow_knight_silksong_ost_mp3/11 Fourth Chorus.mp3
+329:hollow_knight_silksong_ost_mp3/12 Greymoor.mp3
+330:hollow_knight_silksong_ost_mp3/13 Incisive Battle.mp3
+331:hollow_knight_silksong_ost_mp3/14 Bellhart.mp3
+332:hollow_knight_silksong_ost_mp3/15 Widow.mp3
+333:hollow_knight_silksong_ost_mp3/16 Shellwood.mp3
+334:hollow_knight_silksong_ost_mp3/17 Sister Splinter.mp3
+335:hollow_knight_silksong_ost_mp3/18 Hunter's Trail.mp3
+336:hollow_knight_silksong_ost_mp3/19 Sinner's Road.mp3
+337:hollow_knight_silksong_ost_mp3/20 Cut Through.mp3
+338:hollow_knight_silksong_ost_mp3/21 Bilewater.mp3
+339:hollow_knight_silksong_ost_mp3/22 The Mist.mp3
+340:hollow_knight_silksong_ost_mp3/23 Phantom.mp3
+341:hollow_knight_silksong_ost_mp3/24 The Slab.mp3
+342:hollow_knight_silksong_ost_mp3/25 Red Maiden.mp3
+343:hollow_knight_silksong_ost_mp3/26 Mount Fay.mp3
+344:hollow_knight_silksong_ost_mp3/27 Blasted Steps.mp3
+345:hollow_knight_silksong_ost_mp3/28 Last Judge.mp3
+346:hollow_knight_silksong_ost_mp3/29 Underworks.mp3
+347:hollow_knight_silksong_ost_mp3/30 Choral Chambers.mp3
+348:hollow_knight_silksong_ost_mp3/31 Songclave.mp3
+349:hollow_knight_silksong_ost_mp3/32 Cogwork Dancers.mp3
+350:hollow_knight_silksong_ost_mp3/33 Cogwork Core.mp3
+351:hollow_knight_silksong_ost_mp3/34 Whispering Vaults.mp3
+352:hollow_knight_silksong_ost_mp3/35 Trobbio.mp3
+353:hollow_knight_silksong_ost_mp3/36 High Halls.mp3
+354:hollow_knight_silksong_ost_mp3/37 The Choir.mp3
+355:hollow_knight_silksong_ost_mp3/38 Awakening.mp3
+356:hollow_knight_silksong_ost_mp3/39 Dark Descent.mp3
+357:hollow_knight_silksong_ost_mp3/40 Reprieve.mp3
+358:hollow_knight_silksong_ost_mp3/41 Nyleth.mp3
+359:hollow_knight_silksong_ost_mp3/42 Skarrsinger Karmelita.mp3
+360:hollow_knight_silksong_ost_mp3/43 Sands of Karak.mp3
+361:hollow_knight_silksong_ost_mp3/44 Crust King Khann.mp3
+362:hollow_knight_silksong_ost_mp3/45 Lost Verdania.mp3
+363:hollow_knight_silksong_ost_mp3/46 Clover Dancers.mp3
+364:hollow_knight_silksong_ost_mp3/47 Fleatopia.mp3
+365:hollow_knight_silksong_ost_mp3/48 Tormented Trobbio.mp3
+366:hollow_knight_silksong_ost_mp3/49 Red Memory.mp3
+367:hollow_knight_silksong_ost_mp3/50 Last Dive.mp3
+368:hollow_knight_silksong_ost_mp3/51 Lost Lace.mp3
+369:hollow_knight_silksong_ost_mp3/52 Sister of the Void.mp3
+370:hollow_knight_silksong_ost_mp3/53 Silksong.mp3
+playlist_end
